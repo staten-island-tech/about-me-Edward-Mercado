@@ -27,27 +27,37 @@ h1 {
     text-align: center;
     font-weight: bold;
     color: rgb(14, 32, 83);
-    font-size: 6em;
+    font-size: 5.5rem;
 }
 
 h2 {
     text-align: left;
-    font-size: 3em;
+    font-size: 4.5rem;
     font-weight: bold;
     color: rgb(14, 32, 83);
 }
 
 h3 {
     margin: 5px;
-    color: rgb(20, 40, 100);
-    font-size: 2em;
+    color: rgb(26, 52, 120);
+    font-size: 3rem;
+    font-style: italic;
 }
 
-p, a {
-    font-size: 1em;
+p, a, li {
+    font-size: 2rem;
 }
 a {
     color: rgb(35, 73, 117);
     font-weight: bold;
     font-style: italic;
 }
+
+.img_container {
+        width: 40rem;
+        height: 40rem;
+        margin: 1rem auto;
+        background-color: #000000;
+        border: black solid 1rem;
+        border-radius: 0.5rem;
+    }
