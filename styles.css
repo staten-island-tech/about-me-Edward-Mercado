@@ -60,3 +60,11 @@ a {
         border: black solid 1rem;
         border-radius: 0.5rem;
     }
+
+.test-div {
+    width: 1rem;
+}
+
+.test-div-2 {
+    width: 2rem;
+}
